@@ -17,7 +17,7 @@ class TestGame:
         title="Mario Kart",
         platform="Switch",
         genre="Racing",
-        price=60
+        price=60,
     )
 
     session.add(mario_kart)
